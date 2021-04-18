@@ -2,7 +2,7 @@ Deep Dark License - Type A
 
 Copyright `YEAR` `<COPYRIGHT HOLDER`, All rights reserved.
 
-1. To use a work including software that the `Deep Dark License` has been applied, retaining the above copyright notice, this list of conditions and the following notice, the contents of the Deep Dark License must be distributed together.
+1. To use a work including software that the `Deep Dark License` has been applied, retaining the above copyright notice, this list of conditions and the following notice, the contents of the `Deep Dark License` must be distributed together.
 
 2. The copyright holder cannot be held responsible for any problems arising from the use of a work including software that the `Deep Dark License` has been applied.
 
