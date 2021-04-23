@@ -1,4 +1,4 @@
-# DeepDarkLicense
+# Deep Dark License
 
 * 마음에 드는 라이선스가 없을 때 사용하려고 만든 라이선스.
 
