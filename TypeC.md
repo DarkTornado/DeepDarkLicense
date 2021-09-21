@@ -1,4 +1,4 @@
-Deep Dark License - Type B
+Deep Dark License - Type C
 
 Copyright `YEAR` `COPYRIGHT HOLDER`, All rights reserved.
 
@@ -8,6 +8,6 @@ Copyright `YEAR` `COPYRIGHT HOLDER`, All rights reserved.
 
 3. Works including software that the `Deep Dark License` has been applied cannot be used commercially.
 
-4. Unless you use the work including the software that `Deep Dark License` is applied as it is, you must disclose everything such as the source code of the work in a form that anyone can notice.
+4. In any form, if you use the work including the software that `Deep Dark License` is applied, you must disclose everything such as the source code of the work in a form that anyone can notice.
 
 5. For works including software that the `Deep Dark License` has been applied, the guidelines set by the copyright holder take precedence over the license and Non-copyright person(s) or equivalents cannot interfere with the guidelines set by the copyright holder.
